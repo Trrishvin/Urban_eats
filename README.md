@@ -1,6 +1,6 @@
 # TheCoreFive | Urban Eats – Urban Review Platform
 
-**Live Demo:** [https://trrishvin.github.io/Nextgen_socials/](https://trrishvin.github.io/Nextgen_socials/)
+**Live Demo:** [https://trrishvin.github.io/Nextgen_socials/](https://trrishvin.github.io/Urban_eats/)
 
 TheCoreFive is a high-end, modern urban food blog and review archive designed with a focus on immersive UI/UX. The platform serves as a digital "Vault" for culinary experiences, featuring advanced CSS techniques, interactive JavaScript components, and a sophisticated dark-aesthetic brand identity.
 
